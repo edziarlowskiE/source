@@ -2,7 +2,7 @@
 	"id": "Test",
 	"type": "donut",
 	"name": "Cake",
-	"ppu": 0.53,
+	"ppu": 0.54,
 	"batters":
 		{
 			"batter":
